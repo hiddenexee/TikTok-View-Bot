@@ -7,7 +7,7 @@
 - Full Mobil Api
 - No Third Party Apis
 - Full Requests
-- Need Proxies
+- No Proxy Required
 - Need accounts
  
 # Contact:
